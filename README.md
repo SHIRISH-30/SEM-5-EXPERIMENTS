@@ -27,3 +27,5 @@ If you're a student interested in contributing to this repository, we encourage 
 
 # pro tip 
 if u have **seema kolkar maam** for Dwm Then pls be ready to struggle. You can use this case study for dwm which i have included.Data set is available in Kaggle.
+
+# JUST DOWNLOAD THE FILE , IF UNABLE TO PREVIEW
